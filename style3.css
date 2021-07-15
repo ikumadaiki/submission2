@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+<<<<<<< HEAD
+.main-visual {
+  width: 70%;
+  margin: 0 auto;
+}
+.main-visual-spring {
+  height: 200px;
+  background-image: url(img/box1.jpg);
+  background-position: center;
+}
+.main-visual-summer {
+  height: 200px;
+  background-image: url(img/box2.jpg);
+  background-position: center;
+}
+.main-visual-fall {
+  height: 200px;
+  background-image: url(img/box3.jpg);
+  background-position: center;
+}
+
+.main-visual-winter {
+  height: 200px;
+  background-image: url(img/box4.jpg);
+=======
+.main-visual{
+  width:70%;
+  height:800px;
+  margin:0 auto;
+}
+.main-visual-spring{
+  height:200px;
+  background-image:url(img/box1.jpg);
+>>>>>>> 8034dc0033f48c069c0161641022d4988c780d4c
+  background-position: center;
+}
